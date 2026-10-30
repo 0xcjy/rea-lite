@@ -1,0 +1,6 @@
+# Local run evidence, validation fixtures and machine env stay out of the repo
+.rea-lite/
+node_modules/
+*.log
+Thumbs.db
+.DS_Store

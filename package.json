@@ -1,0 +1,8 @@
+{
+  "name": "rea-lite",
+  "private": true,
+  "type": "module",
+  "bin": { "rea-lite": "skills/rea-lite/scripts/rea-lite.mjs" },
+  "scripts": { "test": "node --test", "validate:capabilities": "node scripts/validate-capabilities.mjs" },
+  "engines": { "node": ">=22.19.0" }
+}
